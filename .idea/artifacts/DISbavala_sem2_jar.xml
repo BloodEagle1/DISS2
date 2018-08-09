@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DISbavala_sem2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DISbavala_sem2_jar</output-path>
+    <root id="archive" name="DISbavala_sem2.jar">
+      <element id="module-output" name="DISbavala_sem2" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfreechart-1.0.19 (1)/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jfreechart-1.0.19 (1)/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
